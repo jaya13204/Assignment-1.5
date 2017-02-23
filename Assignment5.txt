@@ -1,0 +1,48 @@
+1.Hadoop:
+
+Hadoop is an open-source software framework used for distributed processing
+and storage of very large data sets.Hadoop splits the large blocks and
+distributes them across nodes each offering local computation and storage.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+2.Components of hadoop framework:
+ 
+The core components of hadoop ecosystem are:
+
+*HDFS:Hadoop Distributed File System is used for storage purpose in hadoop.It consists of single namenode,
+called as master which manages the namespace of filesystem.There are number of data nodes which manages 
+the storage to the nodes they run.
+
+*Mapreduce:Mapreduce is used for processing the stored data.It is composed of three main components,
+
+-JobTracker:It is the master node which manages all jobs and resources.
+-TaskTracker:It is the server which is deployed to each machine in cluster to run map and reducer task.
+-JobHistoryServer:It is a component which tracks the completed jobs and maintains the history.
+
+*YARN:YARN stand for  Yet Another Resource Negotiator which is a cluster management technology of
+hadoop2.
+
+Other components of hadoop are
+*Pig
+*Hive
+*Zookeeper
+*Cassandra
+*Hbase
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+3.Reasons to learn bigdata technologies:
+
+*Increasing job opportunities
+*Demand for Bigdata experts is extremely high
+*Increasing pay for bigdata experts
+*Many industries are migrating themselves to bigdata
+*Reliable and cheaper than RDBMS
+*Assists in decision making
+*Numerous job titles
+*Exceed market prediction nad forecast
+
+
+
+
